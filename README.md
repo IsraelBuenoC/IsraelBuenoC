@@ -1,17 +1,64 @@
-<h1 align="center">Oi 👋, sou Israel Bueno</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=israelbuenoc&label=Profile%20views&color=0e75b6&style=flat" alt="israelbuenoc" /> </p>
+<h1 align="center">👋 Olá, eu sou Israel</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=israelbuenoc" alt="israelbuenoc" /></a> </p>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/israel bueno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel bueno" height="30" width="40" /></a>
-<a href="https://instagram.com/israel_buenoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israel_buenoc" height="30" width="40" /></a>
+<p align="center">
+  💼 Estagiário em Sistemas de Informação | 💻 Aprendendo Programação
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largura="40" altura="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=israelbuenoc&show_icons=true&locale=en&layout=compact" alt="israelbuenoc" /></p>
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Sobre mim
+
+- 🎓 Estudante de Sistemas de Informação
+- 💻 Desenvolvendo projetos com C#, Python e Django
+- 🚀 Buscando evoluir no desenvolvimento web e backend
+- 📖 Aprendendo mais sobre APIs, banco de dados e ASP.NET
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=IsraelBuenoC&show_icons=true&theme=tokyonight"/>
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBuenoC&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsraelBuenoC/IsraelBuenoC/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=israelbuenoc&show_icons=true&locale=en" alt="israelbuenoc" /></p>
