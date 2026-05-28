@@ -1,2 +1,1 @@
-![Snake animation](https://raw.githubusercontent.com/IsraelBuenoC/IsraelBuenoC/output/github-contribution-grid-snake.svg)
-``
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelBuenoC&show_icons=true&theme=dark)
