@@ -1,26 +1,29 @@
-## 💻 Tecnologias
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-<h1 align="center">👋 Olá, eu sou o Israel</h1>
+<h1 align="center">👋 Olá, eu sou Israel</h1>
 
 <p align="center">
-  💼 Esgiario em Sitema de Informação | 💻 Aprendendo programação  
+  💼 Estagiário em Sistemas de Informação | 💻 Aprendendo Programação
 </p>
 
 ---
 
-## 🚀 💻 Tecnologias
+## 🚀 Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
+
+---
+
+## 📚 Sobre mim
+
+- 🎓 Estudante de Sistemas de Informação
+- 💻 Desenvolvendo projetos com C#, Python e Django
+- 🚀 Buscando evoluir no desenvolvimento web e backend
+- 📖 Aprendendo mais sobre APIs, banco de dados e ASP.NET
 
 ---
 
@@ -28,6 +31,7 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=IsraelBuenoC&show_icons=true&theme=tokyonight"/>
+  
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBuenoC&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -52,8 +56,7 @@
 ## 🌐 Contato
 
 <p align="center">
-  <a href="#">
+  <a href="https://linkedin.com/in/seu-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-``
