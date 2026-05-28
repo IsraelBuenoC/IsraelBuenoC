@@ -9,7 +9,7 @@
 <h1 align="center">👋 Olá, eu sou o Israel</h1>
 
 <p align="center">
-  💼 Inspetor de Manutenção | 💻 Aprendendo programação  
+  💼 Esgiario em Sitema de Informação | 💻 Aprendendo programação  
 </p>
 
 ---
