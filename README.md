@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight=pt_BR"/>
+  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&=pt_BRtheme=tokyonight"/>
 </p>
 
 
