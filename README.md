@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=IsraelBuenoC&theme=tokyonight&hide_border=Verdade&locale=pt_BR&short_numbers=Verdade)](https://git.io/streak-stats)
 </p>
 
 
