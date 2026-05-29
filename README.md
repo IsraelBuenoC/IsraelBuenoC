@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelBuenoC&theme=tokyonight&locale=pt_BR" alt="IsraelBuenoC" /></a>
+<a href="https://git.io/streak-stats"><img src="[https://github.com/IsraelBuenoC?tab=repositories]" alt="IsraelBuenoC" /></a>
 </p>
 
 
