@@ -6,8 +6,9 @@
 
 ---
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Israel%20Bueno&theme=tokyonight&hide_border=&locale=pt_BR&short_numbers=" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight"/>
+</p>
 
 
 ## 🚀 Tecnologias
@@ -43,9 +44,11 @@
 
 ## 🔥 Atividade
 
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight"/>
 </p>
+
 
 ---
 
