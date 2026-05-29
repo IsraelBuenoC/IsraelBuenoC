@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelBuenoC&theme=tokyonight&locale=pt_BR&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+![Streak](https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight)
 </p>
 
 
