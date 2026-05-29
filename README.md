@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Israel%20Bueno&theme=tokyonight&hide_border=&locale=pt_BR&short_numbers=" alt="GitHub Streak" /></a>
 </p>
 
 
@@ -39,16 +39,6 @@
   
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBuenoC&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-## 🔥 Atividade
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight"/>
-</p>
-
 
 ---
 
