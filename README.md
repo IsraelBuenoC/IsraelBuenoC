@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight&locale=pt_BR"alt="GitHub Streak">
 </p>
 
 ## 🚀 Tecnologias
