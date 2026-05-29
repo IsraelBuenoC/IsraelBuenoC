@@ -5,9 +5,9 @@
 </p>
 
 ---
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelBuenoC&theme=tokyonight&hide_border=&locale=pt_BR&short_numbers=" alt="GitHub Streak" /></a>
+
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelBuenoC&theme=tokyonight&hide_border=&locale=pt_BR&short_numbers=" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelBuenoC&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
 
 
