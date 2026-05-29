@@ -6,9 +6,11 @@
 
 ---
 
+
 <p align="center">
-<a href="[https://git.io/streak-stats](https://github.com/IsraelBuenoC?tab=repositories)"><img src="[https://github.com/IsraelBuenoC?tab=repositories]" alt="IsraelBuenoC" /></a>
+  <img src="https://streak-stats.demolab.com/?user=IsraelBuenoC&theme=tokyonight"/>
 </p>
+
 
 
 ## 🚀 Tecnologias
