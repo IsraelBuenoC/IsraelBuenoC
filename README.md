@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Israel</h1>
 
 <p align="center">
-  💼 Estagiário em Sistemas de Informação | 💻 Aprendendo Programação
+  💼 Estagiário de Sistemas de Informação | 💻 Aprendendo Programação
 </p>
 
 ---
